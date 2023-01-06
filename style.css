@@ -1,0 +1,114 @@
+.heade{
+    
+    background-image: url('images/donation1.jpg');
+    background-repeat: no-repeat;
+   background-size:cover;
+   height:100vh;
+   margin-top: 5px;
+   margin-left: 5px;
+   margin-right: 5px; 
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.tittle{
+    padding:300px ;
+    color:white;
+    text-align: center;
+}
+.name{
+    font-size:65px;
+   font-weight:500px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-bottom: 24px;
+} 
+.description{
+    font-size:20px;
+    font-weight:100px;
+    margin-bottom:15px;
+    /* text-align: center; */
+    color: #757575;
+}
+.btn-primary{
+    background-color:orange;
+    border-radius:15px;
+    height:80px;
+    width:200px;
+    color: aliceblue;
+    font-size:25px;
+    margin-top:25px;
+}
+#btn{
+    height:80px;
+    width:300px;
+}
+.first-section{
+    text-align: center;
+    margin-top: 100px;
+}
+.name1{
+    font-size:50px;
+    color: black;
+    margin-bottom:24px;
+}
+.list ul{
+   display:flex;
+    color: black;
+    list-style:none ;
+   margin-left:340px;
+   margin-bottom: 50px;
+
+}
+.list li{
+    margin-right:50px;
+    border-radius: 15px;
+    padding:30px 20px;
+    font-size: 50px;
+    background-color: gray;
+}
+#tk{
+    color:brown;
+    border-color:brown;
+    border: 5px solid brown;
+    background-color: rgb(255, 249, 240);
+}
+.second-section{
+    display: flex;
+        text-align: center;
+}
+.first{
+    border-radius: 20px;
+    background-color: antiquewhite;
+    height:200px;
+    width:350px;
+    margin-right: 25px;
+    padding:200px 20px 45px 15px;
+    
+}
+#p{
+    margin-left:220px;
+}
+.tittle-name{
+    margin-bottom:24px ;
+    font-size:30px;
+}
+.third-section{
+    display: flex;
+    
+}
+.img{
+    height:500px;
+    width: 420px;
+   padding-top: 100px;
+    margin-left:200px;
+}
+.second{
+    border-radius: 20px;
+    height:65px;
+    width: 420px;
+    margin-left: 200px;
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
